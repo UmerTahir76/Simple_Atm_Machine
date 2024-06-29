@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1057655468535",
+    "project_id": "pkart-64e69",
+    "storage_bucket": "pkart-64e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057655468535:android:61fe1ce5638d8a2f513ef2",
+        "android_client_info": {
+          "package_name": "com.example.atmmachine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oirhznCp58YVm3GzKYf4GzlsH__60-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057655468535:android:0de4c74e007e48e3513ef2",
+        "android_client_info": {
+          "package_name": "com.example.droncall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oirhznCp58YVm3GzKYf4GzlsH__60-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057655468535:android:a467345b9149ee6e513ef2",
+        "android_client_info": {
+          "package_name": "com.example.pkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oirhznCp58YVm3GzKYf4GzlsH__60-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
